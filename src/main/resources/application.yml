@@ -1,0 +1,13 @@
+amazon:
+  aws:
+    accesskey: test
+    region: us-east-1
+    secretkey: test
+  dynamodb:
+    endpoint: http://127.0.0.1:4566
+server:
+  port: 9090
+
+  
+  
+  
