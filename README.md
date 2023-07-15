@@ -1,0 +1,1 @@
+# spring-boot-rest-app-with-dynamodb-using-localstack
